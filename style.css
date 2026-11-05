@@ -6,4 +6,21 @@ body {
 
 h1 {
     color: #333;
+
+    h1 {
+    color: #d35400;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 10px auto;
+    padding: 12px;
+    max-width: 300px;
+    border-radius: 8px;
+}
 }
